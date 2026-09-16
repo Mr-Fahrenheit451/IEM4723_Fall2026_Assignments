@@ -10,7 +10,8 @@ Image tags:
   mrfahrenheit451/linear-regression-app:latest
 
 Branch Picture:
-(missing one commit that just has the changes made to the README - including this one)
+(Missing the commit that added these changes)
+(Also, the Q4 commit is named incorrectly as Q3, but I can't change a commit message safely to correct this)
 ![alt text](image.png)
 
 LocalHost/Q4 Verification:
